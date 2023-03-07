@@ -21,8 +21,20 @@ conda
 
 link to sphinx, hosted on pages.github
 
+--->
+
 ## How to Cite
 
-bibtex and archiv link.
+Preprint: https://arxiv.org/abs/2303.02386. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
 
---->
+```bibtex
+@misc{tosun2023modular,
+  title     = {Modular Safety-Critical Control of Legged Robots},
+  author    = {Tosun, Berk and Samur, Evren}, 
+  year      = {2023},
+  doi       = {10.48550/ARXIV.2303.02386},
+  url       = {https://arxiv.org/abs/2303.02386},
+  publisher = {arXiv},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
