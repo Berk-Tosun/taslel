@@ -1,6 +1,6 @@
 # This repository is under preparation. 
 
-Meanwhile, you can have a look at my [prelimnary work for the cartpole system](https://github.com/Berk-Tosun/cbf-cartpole).
+Meanwhile, you can have a look at my [preliminary work for the cartpole system](https://github.com/Berk-Tosun/cbf-cartpole).
 
 ## Introduction
 **taslel**: **T**errain-**A**ware **S**afe **LE**gged **L**ocomotion
